@@ -2,8 +2,12 @@
 AES implementation in MATLAB
 
 Author: Jonathan Martinez
+
 Date: November 2016
+
+
 Description:
+
 -    A Matlab implmentation of the Advanced Encryption Standard (AES)
     cryptographic protocol.
 -    The program initializes global parameters such as the SBOX and
@@ -15,5 +19,4 @@ Description:
     is shared for encryption and decryption.
 To Use:
 -    Run aes_master.m
-
 -   Copyright 2016, Jonathan Martinez
