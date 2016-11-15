@@ -1,0 +1,11 @@
+function plaintext_zeros = zerofill(plaintext)
+
+    if(isempty(plaintext) > 0 && length(plaintext) < 16)
+        for i = length(plaintext):16
+            plaintext(i) = 0;
+        end
+    end
+    
+    plaintext_zeros = plaintext;
+
+end
