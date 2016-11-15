@@ -15,4 +15,5 @@ Description:
     is shared for encryption and decryption.
 To Use:
 -    Run aes_master.m
--Copyright 2016, Jonathan Martinez, E:jem14m@my.fsu.edu
+
+-   Copyright 2016, Jonathan Martinez, E:jem14m@my.fsu.edu
